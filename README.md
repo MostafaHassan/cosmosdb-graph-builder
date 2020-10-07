@@ -5,14 +5,17 @@ The product will help with documentation as well as make it easier to be consist
 
 
 ## Getting started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+### Run application
+If you would like to run the application as an exe, download it from the following link:
+https://drive.google.com/file/d/1ZzmRF--9dbcwYM2Rlku_aBjYEkbSiequ/view?usp=sharing
+If you would like to clone and continue develop this project, see the instructions below.
 
-### Requirements
+### Get the project up and running on your local machine for development and testing purposes.
+
+#### Requirements
 * Unity >= 2019.4.10
 
 ### How to use the software
-You can clone and run the exe in the build folder.
-
 #### Camera movement:
 	WASD or Up, left-, down- & right-arrows
 	Move faster by holding left-shift
