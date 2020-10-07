@@ -7,11 +7,12 @@ The product will help with documentation as well as make it easier to be consist
 ## Getting started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-What things you need to install the software and how to install them
-
+### Requirements
+* Unity >= 2019.4.10
 
 ### How to use the software
+You can clone and run the exe in the build folder.
+
 #### Camera movement:
 	WASD or Up, left-, down- & right-arrows
 	Move faster by holding left-shift
