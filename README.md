@@ -21,7 +21,6 @@ The product will help with documentation as well as make it easier to be consist
 ### Run application
 If you would like to run the application as an exe, download it from the following link:
 https://drive.google.com/file/d/1ZzmRF--9dbcwYM2Rlku_aBjYEkbSiequ/view?usp=sharing
-If you would like to clone and continue develop this project, see the instructions below.
 
 ### Get the project up and running on your local machine for development and testing purposes.
 
