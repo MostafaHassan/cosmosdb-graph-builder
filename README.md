@@ -1,15 +1,32 @@
-# cosmosdb-graph-builder
+cosmosdb-graph-builder
+======
+
 This product is developed in Unity 3D engine.
 It is supposed to be used to create relationships between objects fast using relevant keywords.
 The product will help with documentation as well as make it easier to be consistent with relations, keywords etc.
 
 
+## Features
+* **Build graphs** fast and easy
+	* Pre-existing node and edge types
+* **Import graphs** from Azure Cosmos DB
+* **Upload graphs** to Azure Cosmos DB
+* **Export graphs** to gremlin code
+
+
+<img src = "images/graph_example_1.PNG">
+
+
 ## Getting started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+### Run application
+If you would like to run the application as an exe, download it from the following link:
+https://drive.google.com/file/d/1ZzmRF--9dbcwYM2Rlku_aBjYEkbSiequ/view?usp=sharing
+If you would like to clone and continue develop this project, see the instructions below.
 
-### Prerequisites
-What things you need to install the software and how to install them
+### Get the project up and running on your local machine for development and testing purposes.
 
+#### Requirements
+* Unity >= 2019.4.10
 
 ### How to use the software
 #### Camera movement:
@@ -87,11 +104,10 @@ What things you need to install the software and how to install them
     You can load graphs from cosmos db (json) and also convert them to Gremlin code
     You can upload data to cosmos database with one click! (note: it does not drop any existing data, if not explicitly doing so)
 
-## Authors
-* Mostafa Hassan
 
 ## Contributors
-* Mostafa Hassan
+#### [Mostafa Hassan](https://github.com/MostafaHassan)
+cosmosdb-graph-builder is an open-source project administered by **e-framtid**. We appreciate your interest and efforts to contribute.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
