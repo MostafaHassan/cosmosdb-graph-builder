@@ -4,6 +4,9 @@ It is supposed to be used to create relationships between objects fast using rel
 The product will help with documentation as well as make it easier to be consistent with relations, keywords etc.
 
 
+<img src = "images/graph_example_1.PNG">
+
+
 ## Getting started
 ### Run application
 If you would like to run the application as an exe, download it from the following link:
