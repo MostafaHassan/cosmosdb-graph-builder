@@ -11,7 +11,7 @@ The product will help with documentation as well as make it easier to be consist
 	* Pre-existing node and edge types
 * **Import graphs** from Azure Cosmos DB
 * **Upload graphs** to Azure Cosmos DB
-* **Export graphs** to gremlin code
+* **Export graphs** to Gremlin (query language) code
 
 
 <img src = "images/graph_example_1.PNG">
