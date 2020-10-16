@@ -13,9 +13,11 @@ The product will help with documentation as well as make it easier to be consist
 * **Upload graphs** to Azure Cosmos DB
 * **Export graphs** to Gremlin (query language) code
 
-
+<hr>
+<img src = "images/graph_example_3_with_bubbles.PNG">
+<hr>
 <img src = "images/graph_example_1.PNG">
-
+<hr>
 
 ## Getting started
 ### Run application
