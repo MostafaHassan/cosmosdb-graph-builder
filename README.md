@@ -24,6 +24,12 @@ The product will help with documentation as well as make it easier to be consist
 If you would like to run the application as an exe, download it from the following link:
 https://drive.google.com/file/d/1ZzmRF--9dbcwYM2Rlku_aBjYEkbSiequ/view?usp=sharing
 
+However, if you would like to run it directly on the browser, navigate to the following link:
+https://www.eframtid.se/kna/arrow/
+
+Be aware, the browser version of this application is only for demo, it is not stable nor performant. 
+The browser version also lacks some functionality.
+
 ### Get the project up and running on your local machine for development and testing purposes.
 
 #### Requirements
