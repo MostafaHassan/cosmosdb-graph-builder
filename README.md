@@ -11,17 +11,24 @@ The product will help with documentation as well as make it easier to be consist
 	* Pre-existing node and edge types
 * **Import graphs** from Azure Cosmos DB
 * **Upload graphs** to Azure Cosmos DB
-* **Export graphs** to gremlin code
+* **Export graphs** to Gremlin (query language) code
 
-
+<hr>
+<img src = "images/graph_example_3_with_bubbles.PNG">
+<hr>
 <img src = "images/graph_example_1.PNG">
-
+<hr>
 
 ## Getting started
 ### Run application
 If you would like to run the application as an exe, download it from the following link:
 https://drive.google.com/file/d/1ZzmRF--9dbcwYM2Rlku_aBjYEkbSiequ/view?usp=sharing
-If you would like to clone and continue develop this project, see the instructions below.
+
+However, if you would like to run it directly on the browser, navigate to the following link:
+https://www.eframtid.se/kna/arrow/
+
+Be aware, the browser version of this application is only for demo, it is not stable nor performant. 
+The browser version also lacks some functionality.
 
 ### Get the project up and running on your local machine for development and testing purposes.
 
