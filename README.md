@@ -8,7 +8,7 @@ The product will help with documentation as well as make it easier to be consist
 
 ## Features
 * **Build graphs** fast and easy
-	* Pre-existing node and edge types
+	* Preexisting node and edge types
 * **Import graphs** from Azure Cosmos DB
 * **Upload graphs** to Azure Cosmos DB
 * **Export graphs** to Gremlin (query language) code
@@ -105,7 +105,7 @@ The browser version also lacks some functionality.
 		Edit properties
 		See the "to" and "from" node connections 
 
-#### You can set default node and edge proeprties for specific types in edit mode
+#### You can set default node and edge properties for specific types in edit mode
     You can save and load scenes (json-format)
     You can export to Gremlin
     You can load graphs from cosmos db (json) and also convert them to Gremlin code
